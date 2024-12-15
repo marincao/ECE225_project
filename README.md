@@ -1,2 +1,3 @@
-data_cleaning clean san_diego_listing.csv and generate san_diego_listing_cleaned
-visualization contains data visualization parts
+1. data_cleaning clean san_diego_listing.csv and generate san_diego_listing_cleaned
+
+2. visualization contains data visualization parts
