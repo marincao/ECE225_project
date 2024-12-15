@@ -1,0 +1,2 @@
+data_cleaning clean san_diego_listing.csv and generate san_diego_listing_cleaned
+visualization contains data visualization parts
